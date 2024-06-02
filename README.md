@@ -1,10 +1,10 @@
 # Fitness App 
 
-This is a minimalistic fitness app based on the StarkNet technology.
+This is a minimalistic fitness app based on the StarkNet to challenge yourself.
 
 ## Overview
 
-Our fitness application provides you with the ability to track your workouts and monitor your progress over time. It's designed to be user-friendly and intuitive.
+Our fitness application provides you with the ability to stake and challenge yourself
 
 ## StarkNet Technology
 
